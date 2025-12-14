@@ -1,0 +1,158 @@
+[
+  {
+    "id": "propulsion-engineer-spacex",
+    "title": "Propulsion Systems Engineer",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "$120,000 - $180,000",
+    "description": "Design and test next-generation rocket propulsion systems for Starship and beyond.",
+    "requirements": [
+      "BS in Aerospace/Mechanical Engineering",
+      "Experience with liquid rocket engines",
+      "CFD analysis skills",
+      "Knowledge of combustion dynamics"
+    ],
+    "responsibilities": [
+      "Design propulsion system components",
+      "Conduct hot-fire tests",
+      "Analyze engine performance data",
+      "Collaborate with manufacturing teams"
+    ],
+    "benefits": ["Stock options", "Health insurance", "Relocation assistance"],
+    "posted": "2 days ago",
+    "applicants": 234,
+    "logo": "🚀"
+  },
+  {
+    "id": "mission-control-nasa",
+    "title": "Flight Controller - Mission Control",
+    "company": "NASA",
+    "location": "Houston, TX",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "$95,000 - $140,000",
+    "description": "Monitor and direct space missions from NASA's Mission Control Center.",
+    "requirements": [
+      "BS in Engineering or related field",
+      "Strong analytical skills",
+      "Ability to work under pressure",
+      "Security clearance eligible"
+    ],
+    "responsibilities": [
+      "Monitor spacecraft systems in real-time",
+      "Make critical mission decisions",
+      "Coordinate with international partners",
+      "Participate in simulation training"
+    ],
+    "benefits": ["Federal benefits", "Pension plan", "Professional development"],
+    "posted": "1 week ago",
+    "applicants": 567,
+    "logo": "🛸"
+  },
+  {
+    "id": "satellite-engineer-esa",
+    "title": "Satellite Systems Engineer",
+    "company": "ESA",
+    "location": "Noordwijk, Netherlands",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "€70,000 - €95,000",
+    "description": "Develop and integrate satellite systems for Earth observation and science missions.",
+    "requirements": [
+      "MS in Aerospace Engineering",
+      "Satellite systems experience",
+      "Knowledge of space environment",
+      "EU work authorization"
+    ],
+    "responsibilities": [
+      "Design satellite subsystems",
+      "Conduct integration tests",
+      "Review mission requirements",
+      "Support launch campaigns"
+    ],
+    "benefits": ["International environment", "Relocation package", "Training programs"],
+    "posted": "3 days ago",
+    "applicants": 189,
+    "logo": "🛰️"
+  },
+  {
+    "id": "data-scientist-planetary",
+    "title": "Planetary Science Data Scientist",
+    "company": "JPL",
+    "location": "Pasadena, CA",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "$110,000 - $155,000",
+    "description": "Analyze data from Mars rovers and develop machine learning models for planetary exploration.",
+    "requirements": [
+      "PhD in Planetary Science or related",
+      "Python and ML frameworks",
+      "Experience with large datasets",
+      "Research publication record"
+    ],
+    "responsibilities": [
+      "Process rover telemetry data",
+      "Develop AI models for terrain analysis",
+      "Collaborate with science teams",
+      "Present findings at conferences"
+    ],
+    "benefits": ["Research environment", "Publication opportunities", "Flexible hours"],
+    "posted": "5 days ago",
+    "applicants": 412,
+    "logo": "🔬"
+  },
+  {
+    "id": "astronaut-candidate",
+    "title": "Astronaut Candidate Program",
+    "company": "NASA",
+    "location": "Houston, TX",
+    "type": "Full-time",
+    "experience": "1000+ flight hours or advanced degree",
+    "salary": "$104,000 - $161,000",
+    "description": "Train for missions to the International Space Station, Moon, and potentially Mars.",
+    "requirements": [
+      "US citizenship",
+      "Master's degree in STEM field",
+      "2+ years professional experience or 1000 pilot hours",
+      "Pass NASA long-duration spaceflight physical"
+    ],
+    "responsibilities": [
+      "Complete 2-year astronaut training",
+      "Develop expertise in spacecraft systems",
+      "Participate in mission simulations",
+      "Conduct research in space"
+    ],
+    "benefits": ["Historic opportunity", "Federal benefits", "Travel to space"],
+    "posted": "2 weeks ago",
+    "applicants": 12000,
+    "logo": "👨‍🚀"
+  },
+  {
+    "id": "spacecraft-software-blueorigin",
+    "title": "Spacecraft Software Engineer",
+    "company": "Blue Origin",
+    "location": "Kent, WA",
+    "type": "Full-time",
+    "experience": "3-7 years",
+    "salary": "$130,000 - $190,000",
+    "description": "Develop flight software for New Glenn launch vehicle and lunar lander systems.",
+    "requirements": [
+      "BS in Computer Science/Engineering",
+      "C++ and embedded systems",
+      "Real-time operating systems",
+      "Safety-critical software experience"
+    ],
+    "responsibilities": [
+      "Design flight software architecture",
+      "Implement guidance and control algorithms",
+      "Conduct software verification testing",
+      "Support mission operations"
+    ],
+    "benefits": ["Stock compensation", "Comprehensive health coverage", "Relocation"],
+    "posted": "4 days ago",
+    "applicants": 298,
+    "logo": "🔵"
+  }
+]

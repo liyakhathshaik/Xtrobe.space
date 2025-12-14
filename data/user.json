@@ -1,0 +1,68 @@
+{
+  "name": "Alex Cosmos",
+  "role": "Space Enthusiast",
+  "location": "San Francisco, CA",
+  "memberSince": "2023-06-15",
+  "avatar": "👨‍🚀",
+  "bio": "Amateur astronomer and aerospace engineering student passionate about deep space exploration and astrophotography.",
+  "interests": [
+    "Astrophotography",
+    "Rocket Science",
+    "Exoplanets",
+    "Mars Colonization",
+    "Machine Learning"
+  ],
+  "stats": {
+    "eventsAttended": 12,
+    "hackathonsCompleted": 3,
+    "communityPosts": 28,
+    "bookmarks": 45
+  },
+  "savedEvents": [
+    "geminid-meteor-shower-2024",
+    "full-cold-moon-2024",
+    "total-lunar-eclipse-2025"
+  ],
+  "bookmarkedHackathons": [
+    "exoplanet-detection-ml",
+    "satellite-debris-tracker",
+    "space-weather-forecasting"
+  ],
+  "upcomingRegistrations": [
+    {
+      "type": "event",
+      "title": "Virtual Telescope Night",
+      "date": "2024-12-20"
+    },
+    {
+      "type": "workshop",
+      "title": "Introduction to Orbital Mechanics",
+      "date": "2025-01-05"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "First Post",
+      "icon": "📝",
+      "date": "2023-06-20"
+    },
+    {
+      "title": "Event Enthusiast",
+      "description": "Attended 10+ celestial events",
+      "icon": "🌟",
+      "date": "2024-03-15"
+    },
+    {
+      "title": "Problem Solver",
+      "description": "Completed first hackathon",
+      "icon": "🏆",
+      "date": "2024-08-20"
+    },
+    {
+      "title": "Community Builder",
+      "description": "Made 25+ community posts",
+      "icon": "💬",
+      "date": "2024-11-10"
+    }
+  ]
+}
